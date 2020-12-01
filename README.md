@@ -1,1 +1,2 @@
 # PSBB_COVID19_SENTIMENT_ANALYSIS
+### Sentiment analysis is the process of understanding, extracting and processing data textual automatically to get the sentiment information contained in a sentence of opinion expressed in the form and group them into two groups: positive opinions and negative opinions. The data is calculated with Term Frequency-Inverse Document Frequency (TF-IDF), use Support Vector Machine on training data to produce the classification model then tested on test data.
